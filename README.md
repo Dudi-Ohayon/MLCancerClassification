@@ -7,7 +7,7 @@ The process includes exploratory data analysis (EDA), feature engineering, model
 ## Workflow
 
 ### 1. Data Import and Preparation
-- Import the dataset.
+- Import the datasets.
 - Split the data into X(Features) and y(target).
 
 ### 2. Exploratory Data Analysis (EDA)
